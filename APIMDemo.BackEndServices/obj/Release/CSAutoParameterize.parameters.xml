@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="AdventureWorksModel-Web.config Connection String" description="AdventureWorksModel Connection String used in web.config by the application to access the database." defaultValue="data source=apimdemo.database.usgovcloudapi.net;initial catalog=apimdemo;user id=kmack;password=@PIM@n@gement;MultipleActiveResultSets=True;App=EntityFramework" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Projects\ -\ My\ Projects\\Workshop\\Microsoft\ CSA\\APIMDemo\\APIMDemo\.BackEndServices\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='AdventureWorksModel']/@connectionString" />
+  </parameter>
+</parameters>
